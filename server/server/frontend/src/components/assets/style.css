@@ -71,8 +71,7 @@ img{
   margin: auto;
   min-width: 350px;
   width: 80%;
-  margin-top:3%;
-  background-color: black;
+  margin-top:3%
 }
 
 .navitems{
@@ -123,22 +122,4 @@ img{
     border-radius:50px;
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
-}
-
-.contact-card {
-  border-radius: 12px;
-  overflow: hidden;
-}
-
-.contact-card .card-body p {
-  font-size: 1.1rem;
-  margin-bottom: 0.75rem;
-}
-
-.contact-card a {
-  text-decoration: none;
-}
-
-.contact-card a:hover {
-  color: #2563eb;
 }
